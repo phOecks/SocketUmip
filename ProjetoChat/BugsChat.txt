@@ -1,0 +1,10 @@
+1 - Acessar com o nome em branco -> Caso o campo de nome do usuário estiver em branco e for apertado o botão ok
+exibir mensagem de texto informando que deve ser colocado um nome
+
+2 - Acessar pelo botão cancelar -> Caso o usuário clique no botão Cancelar na etapa de digitar o nome, deve 
+aparecer uma caixa de dialogo perguntando se realmente deseja sair com opção sim/não para sair ou voltar ao nome
+
+3 - Acessar pelo "X"(botão padrão de fechar) -> Mesma coisa que o botão cancelar
+
+4 - Sair do chat -> Deve ser perguntado ao usuário se ele realmente deseja sair, como nos problemas acima
+
